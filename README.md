@@ -43,3 +43,5 @@ git tag -a v1.0.0 -m "initial version"
 
 git push origin main --tags  
 ```
+
+Go releaser test.
