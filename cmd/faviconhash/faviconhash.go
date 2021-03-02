@@ -26,5 +26,5 @@ func main() {
 	if err != nil {
 		println(err.Error())
 	}
-	fmt.Printf("Shodan Search Query: http.favicon.hash:%s\n", hash)
+	fmt.Printf("Shodan search query: http.favicon.hash:%s\n", hash)
 }
