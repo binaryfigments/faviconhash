@@ -1,7 +1,6 @@
 # faviconhash
 
 [![GitHub license](https://img.shields.io/github/license/binaryfigments/faviconhash)](https://github.com/binaryfigments/faviconhash/blob/main/LICENSE.md)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=binaryfigments)](https://twitter.com/binaryfigments)
 [![GitHub Release](https://img.shields.io/github/release/binaryfigments/faviconhash)](https://github.com/binaryfigments/faviconhash/releases)
 
 Get the favicon hash for fun and profit. (poc version)
