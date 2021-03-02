@@ -1,5 +1,6 @@
 # faviconhash
-Get the favicon hash for fun and profit.
+
+Get the favicon hash for fun and profit. (poc version)
 
 Installation:
 
