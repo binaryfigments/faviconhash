@@ -48,3 +48,6 @@ git push origin main --tags
 ```
 
 Go releaser test.
+
+goreleaser --snapshot --rm-dist
+goreleaser release --rm-dist
